@@ -48,6 +48,6 @@ public class Lab {
             buildingString = buildingString + i + " ";
         }
 
-        return buildingString;
+        return buildingString; //comment to commit
     }
 }
